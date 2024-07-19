@@ -10109,9 +10109,7 @@
                     "name": [
                         "D9 Framework"
                     ]
-                }
-            },
-            "loadAfter": {
+                },
                 "ludeon.rimworld.biotech": {
                     "name": [
                         ""
